@@ -1,0 +1,22 @@
+{
+  "plugins": [
+    {
+      "name": "taplugin-alpha",
+      "url": "https://github.com/target-ops/taplugin-alpha.git",
+      "version": "main",
+      "local_name": "taplugin-alpha-remote1"
+    },
+    {
+      "name": "repo2",
+      "url": "https://gitlab.com/user/repo2.git",
+      "version": "v2.3.4",
+      "local_name": "local-repo2"
+    },
+    {
+      "name": "repo3",
+      "url": "https://bitbucket.org/user/repo3.git",
+      "version": "v0.9.2",
+      "local_name": "local-repo3"
+    }
+  ]
+}
