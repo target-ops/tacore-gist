@@ -1,10 +1,10 @@
 {
   "plugins": [
     {
-      "name": "taplugin-alpha",
-      "url": "https://github.com/target-ops/taplugin-alpha.git",
+      "name": "taplugin-teminal",
+      "url": "https://github.com/target-ops/taplugin-teminal.git",
       "version": "main",
-      "local_name": "taplugin-alpha-remote1"
+      "local_name": "teminal-app"
     }
   ]
 }
