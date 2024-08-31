@@ -4,7 +4,8 @@
       "name": "taplugin-teminal",
       "url": "https://github.com/target-ops/taplugin-teminal.git",
       "version": "main",
-      "local_name": "teminal-app"
+      "local_name": "terminal-app",
+      "is_private": false
     }
   ]
 }
