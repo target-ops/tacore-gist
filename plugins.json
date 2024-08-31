@@ -5,7 +5,7 @@
       "url": "https://github.com/target-ops/taplugin-teminal.git",
       "version": "main",
       "local_name": "terminal-app",
-      "is_private": true
+      "is_private": false
     }
   ]
 }
